@@ -3,3 +3,11 @@ img#main_icon {
   width: 40px;
   height: 40px;
 }
+
+.mid {
+  text-align: center;
+}
+
+h3 {
+  padding-top: 10px;
+}
